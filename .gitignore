@@ -1,6 +1,9 @@
 # Ignoring .csv files to save space on Github
 *.csv
 
+# Ignoring .pdf
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
